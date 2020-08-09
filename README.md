@@ -1,5 +1,5 @@
 # Detecting-Credit-Card-Fraud
-I worked on this project in 2018 and updated it in 2019
+I worked on this project in 2017, updated it 2018 and then again at 2020
 
 Background - The datasets contains transactions made by credit cards in September 2013 by European cardholders.
 
@@ -25,9 +25,9 @@ By using such random splits, they can be identified closer to the root of the tr
 
 Machine Learning Model in R
 
-2018 version 1 - Performed cross-validation and then ran linear discriminant analysis, logistic analysis, support vector machine, gradient boosting models and compared the results of these models
+2017 version 1 - Performed cross-validation and then ran linear discriminant analysis, logistic analysis, support vector machine, gradient boosting models and compared the results of these models.
 
-2018 - Version 2 - Performed isolation forest since it works well with the unbalanced data 
+2018 - Version 2 - Performed isolation forest since it works well with the unbalanced data - updated it again at 2020
 
 Machine Learning in Python 
 
